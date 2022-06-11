@@ -19,7 +19,6 @@ func main() {
 
 		case windSpeed < 0:
 			fmt.Println("You have stopped the program")
-			fmt.Println("Thank you for using!")
 			break
 
 		case windSpeed >= 0 && windSpeed < 33:
@@ -44,5 +43,5 @@ func main() {
 			fmt.Printf("You have entered %[2]vm/s which exceeds the highest wind speed ever recorded on earth(103.3m/s) by %[1]v m/s\n ", exceed, windSpeed)
 		}
 	}
-	fmt.Println("Please come again!")
+	fmt.Println("Thank you and please come again!")
 }

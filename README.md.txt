@@ -1,4 +1,6 @@
 ## Hurricane_classification 
 
-The purpose of this program is to classfy hurricane catergories based on wind speed 
-using Saffir–Simpson Scale.
+The purpose of this program is to classfy hurricane catergories according to the wind speed 
+utilising Saffir–Simpson Scale.
+
+Programming language:Go
